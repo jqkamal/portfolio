@@ -8,3 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
     initNavigation();
     initContactForm();
 });
+// const toggleButton = document.querySelector('.btn-toggle-mode');
+// toggleButton.addEventListener('click', () => {
+//     document.body.classList.toggle('light-mode');
+//     document.body.classList.toggle('dark-mode');
+// });

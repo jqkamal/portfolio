@@ -1,4 +1,6 @@
 /* Component-specific styles */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
@@ -9,9 +11,12 @@
 }
 
 .card {
+    background-color:transparent ;
+    /* color: white; */
     transition: transform 0.3s ease;
     border: none;
-    box-shadow: 0 7px 9px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 7px 10px rgba(0, 0, 0, 0.1);
+    
 }
 
 .card:hover {
@@ -31,3 +36,6 @@
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0,0,0,0.1);
 }
+/* card test */
+
+  
