@@ -11,7 +11,7 @@ section {
 
 /* Hero Section */
 .hero {
-    height: 80vh;
+    height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
                 url('../images/backgruond/4.jpg') center/cover;
     color: white;
@@ -31,7 +31,9 @@ section {
     text-align: justify;
 }
 
-
+#home a {
+    margin: 3px 4px;
+}
 /* Projects Section */
 .project-card {
     transition: transform 0.3s ease;
@@ -81,7 +83,7 @@ section {
     margin: 5px; */
 }
 #skil  {
-    text-shadow: 2px 2px 4px rgba(252, 246, 246, 0.5);
+    text-shadow: 2px 2px 4px rgb(185, 217, 255);
 }
 body.dark-mode {
             background-color: #121212;
