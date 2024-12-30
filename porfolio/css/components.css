@@ -11,7 +11,7 @@
 }
 
 .card {
-    background-color:glsteelblue; ;
+    background-color:transparent; ;
     /* color: white; */
     transition: transform 0.3s ease;
     border: none;

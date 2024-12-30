@@ -15,8 +15,8 @@ body {
 section {
     padding-top: var(--section-padding);
 }
-.card-2{
-    width: 800px;
+/* .card-2{
+    width: 70%;
     min-height: 250px;
     background: rgba( 255, 255, 255, 0.15 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
@@ -26,7 +26,7 @@ section {
     border-radius: 1rem;
     padding: 1.5rem;
     z-index: 10;
-    color: whitesmoke;
+    color: rgb(0, 0, 0);
   }
   .container-2{
     display: flex;
@@ -37,7 +37,7 @@ section {
   }
   .container-2 h1{
     font-size: 2rem;
-  }
+  } */
 @media (max-width: 768px) {
     .hero {
         text-align: center;
